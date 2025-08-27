@@ -1,4 +1,4 @@
-<bold>Atividade Jetpack Compose</bold>
+<h3>Atividade Jetpack Compose</h3>
 
 Amanda Dantas de Souza - RM552352
 
