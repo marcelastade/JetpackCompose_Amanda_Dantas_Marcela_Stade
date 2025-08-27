@@ -1,4 +1,4 @@
-<h2>Atividade Jetpack Compose</h2>
+<h2>Atividade Jetpack Compose - Implementando o Layout Card Mensagem</h2>
 
 Amanda Dantas de Souza - RM552352
 
